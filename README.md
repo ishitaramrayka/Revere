@@ -85,6 +85,7 @@ ElevenLabs API
    ↙            ↘
 STT              TTS
 (Speech→Text)    (Text→Speech)
+```
 
 ## Tech Stack
 
