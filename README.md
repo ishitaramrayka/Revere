@@ -297,6 +297,6 @@ Built as a product storytelling experience for an AI-powered Alzheimer's care co
 📄 License
 
 MIT License
-<div align="center">
+
 💙 Built to make care feel more human.
-</div> ```
+
