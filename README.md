@@ -195,19 +195,22 @@ http://localhost:3000
 📦 Production Build
 npm run build
 npm run start
-🖼️ Screenshots
+```
+
+## 🖼️ Screenshots
 
 Add your final screenshots here to make the repo look even stronger.
 
-Hero Section
+### Hero Section
 ![Hero Screenshot](./public/screenshots/hero.png)
-3D Product Showcase
+### 3D Product Showcase
 ![3D Glasses Screenshot](./public/screenshots/glasses.png)
-Caregiver Dashboard Section
+### Caregiver Dashboard Section
 ![Dashboard Screenshot](./public/screenshots/dashboard.png)
-Final CTA / Brand Reveal
+### Final CTA / Brand Reveal
 ![CTA Screenshot](./public/screenshots/cta.png)
-🧠 Design Philosophy
+
+## 🧠 Design Philosophy
 
 Revere’s landing page was built around three ideas:
 
@@ -221,7 +224,7 @@ People should understand why it matters before they learn how it was built.
 
 3. Motion as Narrative
 
-Animations are used to:
+### Animations are used to:
 
 guide attention
 shape pacing
@@ -230,7 +233,7 @@ make the concept feel tangible
 
 This is not just a static site. It is a storytelling experience.
 
-🌍 Why This Project Matters
+## 🌍 Why This Project Matters
 
 Alzheimer’s care is not only a technical challenge.
 It is also a challenge of:
@@ -249,12 +252,11 @@ The goal is to make care feel lighter, calmer, and more continuous.
 
 
 🔗 Related Links
-🌐 Landing Page: revere-jet.vercel.app
-🧑‍⚕️ Caretaker Mode: revere-dashboard.vercel.app
-👨‍💻 GitHub: @TejasGov
-👤 Author
+- 🌐 Landing Page: revere-jet.vercel.app
+- 🧑‍⚕️ Caretaker Mode: revere-dashboard.vercel.app
+- 👨‍💻 GitHub: @TejasGov, @ishitaramrayka, @atshalahmedkhan
+- 👤 Author: Tejas Govind, Ishita Ramrayka, Atshal Ahmed Khan
 
-Tejas Gov
 
 Built as a product storytelling experience for an AI-powered Alzheimer's care concept.
 
@@ -262,5 +264,5 @@ Built as a product storytelling experience for an AI-powered Alzheimer's care co
 
 MIT License
 
-💙 Built to make care feel more human.
+ Built to make care feel more human.
 
