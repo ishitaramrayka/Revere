@@ -1,4 +1,4 @@
-# 🧠 Wearable Assistive AI System for Alzheimer’s Patients
+# Wearable Assistive AI System for Alzheimer’s Patients
 
 ## Overview
 
@@ -14,9 +14,9 @@ Together, these components create a **memory support ecosystem** that enhances d
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 👤 Face Recognition (Wearable Device)
+### Face Recognition (Wearable Device)
 
 - Detects and recognizes known individuals in real-time
 - Uses multiple images per person for improved accuracy
@@ -25,7 +25,7 @@ Together, these components create a **memory support ecosystem** that enhances d
 
 ---
 
-### 🧾 Caregiver Dashboard (Web App)
+### Caregiver Dashboard (Web App)
 
 A centralized platform for managing patient data and system behavior.
 
@@ -42,7 +42,7 @@ A centralized platform for managing patient data and system behavior.
 
 ---
 
-### 🔊 Voice Assistant (Accessibility Feature)
+### Voice Assistant (Accessibility Feature)
 
 A voice-enabled assistant for caregivers built using ElevenLabs.
 
@@ -56,7 +56,7 @@ A voice-enabled assistant for caregivers built using ElevenLabs.
 
 ---
 
-### 🧠 Intelligent Memory System
+### Intelligent Memory System
 
 - Prioritizes critical information:
   - Medication
@@ -66,7 +66,7 @@ A voice-enabled assistant for caregivers built using ElevenLabs.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 Wearable Device (Raspberry Pi)
