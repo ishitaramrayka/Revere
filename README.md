@@ -85,3 +85,48 @@ ElevenLabs API
    ↙            ↘
 STT              TTS
 (Speech→Text)    (Text→Speech)
+
+## Tech Stack
+
+### Hardware
+
+- Raspberry Pi Zero 2 W
+- Raspberry Pi Camera Module 3
+- MAX98357A I2S Amplifier
+- LiPo Battery + Power Modules
+
+### Software
+
+#### Frontend
+
+- Next.js
+- React
+
+#### Backend
+
+- Next.js API Routes
+- Firebase
+  - Firestore (database)
+  - Firebase Storage (media)
+
+#### AI & Voice
+
+- ElevenLabs API
+  - Speech-to-Text (STT)
+  - Text-to-Speech (TTS)
+
+#### Computer Vision
+
+- OpenCV
+- face_recognition (Python)
+
+---
+
+## API Integration (ElevenLabs)
+
+### Setup
+
+Create a `.env.local` file:
+
+```env
+ELEVENLABS_API_KEY=your_api_key_here
