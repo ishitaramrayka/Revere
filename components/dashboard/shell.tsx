@@ -2,13 +2,12 @@
 
 import { useCallback, useState } from 'react'
 import type { DashboardSnapshot, ScheduleItem } from '@/lib/dashboard-types'
-import { Sidebar, BottomNav } from './sidebar'
+import { Sidebar, BottomNav, type Tab } from './sidebar'
 import { OverviewTab } from './overview-tab'
 import { FaceGalleryTab } from './face-gallery-tab'
 import { ScheduleTab } from './schedule-tab'
 import { ActivityLogTab } from './activity-log-tab'
-
-type Tab = 'overview' | 'gallery' | 'schedule' | 'activity'
+import { ChatbotTab } from './chatbot-tab'
 
 type DashboardShellProps = {
   initialData: DashboardSnapshot
@@ -93,6 +92,7 @@ export function DashboardShell({ initialData }: DashboardShellProps) {
             />
           )}
           {activeTab === 'activity' && <ActivityLogTab events={data.activity} />}
+          {activeTab === 'chatbot' && <ChatbotTab data={data} />}
         </div>
       </main>
 

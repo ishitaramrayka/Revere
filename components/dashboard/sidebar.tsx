@@ -7,15 +7,17 @@ import {
   CalendarDays,
   ScrollText,
   Wifi,
+  BotMessageSquare,
 } from 'lucide-react'
 
-type Tab = 'overview' | 'gallery' | 'schedule' | 'activity'
+export type Tab = 'overview' | 'gallery' | 'schedule' | 'activity' | 'chatbot'
 
 const navItems: { id: Tab; label: string; icon: React.ElementType }[] = [
   { id: 'overview', label: 'Overview', icon: LayoutDashboard },
   { id: 'gallery', label: 'Face Gallery', icon: Users },
   { id: 'schedule', label: 'Schedule', icon: CalendarDays },
   { id: 'activity', label: 'Activity Log', icon: ScrollText },
+  { id: 'chatbot', label: 'Chatbot', icon: BotMessageSquare },
 ]
 
 type SidebarProps = {
