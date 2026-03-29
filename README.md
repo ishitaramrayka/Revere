@@ -49,6 +49,10 @@ The site is designed to show how thoughtful technology can help users stay:
 
 ---
 
+🧱 Tech Stack 
+
+<img width="679" height="450" alt="Screenshot 2026-03-29 at 11 17 01 AM" src="https://github.com/user-attachments/assets/57e8ce57-9af6-4dc0-80f3-4de20aa71461" />
+
 ## 💡 What Is Revere?
 
 Revere is a smart glasses concept for Alzheimer's care that combines AI assistance with caregiver support tools.
@@ -146,27 +150,6 @@ This project is built as a **motion-heavy, frontend-first storytelling experienc
 - **IntersectionObserver-based reveal triggers**
 - immersive single-page storytelling layout
 - product-focused animation sequencing
-
----
-
-## 🧱 Tech Stack
-
-### Framework
-- **Next.js 16**
-- **React 19**
-
-### Animation
-- **GSAP**
-- **GSAP ScrollTrigger**
-- **CountUp.js**
-
-### 3D / Visuals
-- **Three.js**
-- **GLTFLoader**
-- **DRACOLoader**
-
-### Deployment
-- **Vercel**
 
 ---
 
