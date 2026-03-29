@@ -41,10 +41,6 @@ The site is designed to show how thoughtful technology can help users stay:
 - **independent**
 - **safe**
 
-> ⚠️ **Note:** This repository contains the **landing page only**.  
-> It does **not** include the full hardware stack, embedded systems, backend APIs, or production caregiver dashboard source code.
-
----
 
 ## 🔗 Live Links
 
